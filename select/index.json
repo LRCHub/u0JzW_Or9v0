@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Stairway Generation",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2026-03-16T12:36:53.665444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stairway Generation",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/01_Stairway_Generation_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stairway Generation",
+      "artist": "Base Ball Bear",
+      "has_synced": false,
+      "path": "select/02_Stairway_Generation_Base_Ball_Bear.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stairway Generation （第151～176話 OP）",
+      "artist": "Mu-ray",
+      "has_synced": false,
+      "path": "select/03_Stairway_Generation_(第151~176話_OP)_Mu-ray.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stairway Generation (ep.151-176 OP)",
+      "artist": "MU-RAY",
+      "has_synced": false,
+      "path": "select/04_Stairway_Generation_(ep.151-176_OP)_MU-RAY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stairway Generation",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_Stairway_Generation_BaseBallBear.txt"
+    }
+  ]
+}
